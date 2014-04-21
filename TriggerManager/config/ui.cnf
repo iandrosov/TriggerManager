@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<sections>
+  <name>Triggers</name>
+  <text>Triggers</text>
+  <submenu>
+    <url>disable_trigger.dsp</url>
+    <help>help.dsp</help>
+    <name>1</name>
+    <text>Disable All Triggers</text>
+  </submenu>
+  <submenu>
+    <url>stop_trigger.dsp</url>
+    <help>help.dsp</help>
+    <name>1</name>
+    <text>Stop All Triggers</text>
+  </submenu>
+  <submenu>
+    <url>manage_trigger.dsp</url>
+    <help>help.dsp</help>
+    <name>1</name>
+    <text>Manage Triggers</text>
+  </submenu>
+</sections>

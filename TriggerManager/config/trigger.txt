@@ -1,0 +1,3 @@
+#Server property
+#Tue Jul 01 18:02:58 PDT 2003
+trigger.nameList=Test.BK_TEST.pub\:my_trigger;Test.BK_TEST.sub\:trigger_test;Test.admin\:bb_trigger;
